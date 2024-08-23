@@ -1,2 +1,2 @@
 # Introduction_to_Software_Engineering
-Labs and homework we did InIntroduction to Software Engineering class.
+The lab that we did in the Introduction to Software Engineering class.
